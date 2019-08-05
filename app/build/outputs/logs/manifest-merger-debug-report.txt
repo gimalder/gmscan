@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:12:5-35:19
+	android:label
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:13:9-39
+service#ru.virtualracing.gmscan.aquisitionService
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:15:9-18:47
+	android:enabled
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:17:13-36
+	android:exported
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:16:13-46
+activity#ru.virtualracing.gmscan.PluginActivity
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:20:9-34:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:23:13-45
+	android:label
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:24:13-36
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:27:13-60
+	android:finishOnTaskLaunch
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:21:13-43
+intent-filter#action:name:org.prowl.torque.ACTIVITY_PLUGIN
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:28:13-30:29
+action#org.prowl.torque.ACTIVITY_PLUGIN
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:29:25-72
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:31:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml:32:25-66
+uses-sdk
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\torquescan1\app\src\main\AndroidManifest.xml

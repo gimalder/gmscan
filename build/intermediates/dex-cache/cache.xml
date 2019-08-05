@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/harry/AndroidStudioProjects/torquescan1/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73829467e29b1ba218ec4c21e5170dbaf1dac3ae">
+        <dex dex="/home/harry/AndroidStudioProjects/torquescan1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3f2c24321483948d651cd7555810e91ebd0a61e/classes.dex" />
+    </item>
+    <item
+        jar="/home/harry/AndroidStudioProjects/torquescan1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89cb18c7dade685d4ad865ec73592104bb53df34">
+        <dex dex="/home/harry/AndroidStudioProjects/torquescan1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c50b1373c8601f46703b184246687d3b96e640e/classes.dex" />
+    </item>
+
+</items>
